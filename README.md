@@ -12,6 +12,7 @@ the best match for the skills required for current available projects in the com
 optimising talents that already exist in the company based on current employees’ skills.
 
 The notebooks provided in this repo are mostly helper functions for achieving this pipeline:
-![image](https://user-images.githubusercontent.com/61226756/139467812-10ae8ce3-abf7-4906-9167-4585831f6061.png)
+![image](https://user-images.githubusercontent.com/61226756/139468101-4824e4dd-1a5d-4243-a695-e27bb3edcc2d.png)
+
 We have incoporated several kinds of supervised/unsupervised learning models along with NLP techniques to 
 build the model above. 
